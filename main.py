@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 FILE_EXTENSIONS = (".xlsx", ".xls")
-FILE_PATH = r'C:\Users\Админ\Desktop\excel\remove_empty_in_excel'
+FILE_PATH = r''
 OUTPUT_FOLDER = r'processed_files'
 
 output_folder = os.path.join(FILE_PATH, OUTPUT_FOLDER)
